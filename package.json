@@ -1,0 +1,17 @@
+{
+  "name": "dag",
+  "version": "1.0.0",
+  "description": "",
+  "exports": {
+    ".": "./index.js",
+    "./dot": "./parse.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "auto-creating-map": "^2.0.0"
+  }
+  
+}
